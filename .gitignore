@@ -1,9 +1,11 @@
 .*
 !/.gitignore
-*.csv
 *.tfevents*
 *.txt
 *.zip
+*.h5
+sampleSubmission.csv
+*.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
